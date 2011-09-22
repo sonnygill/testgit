@@ -1,2 +1,4 @@
 This is a file
 with 2 lines
+
+Changed by Marnix
